@@ -1,0 +1,3 @@
+Primarily used this document from Duo. https://duo.com/docs/duounix
+
+Setup Duo MFA for all SSH access to an EC2 Instance inside my AWS Environment. Used Ubuntu as the OS. At first I had Duo setup to sent an enrollment link but after further review I turned that off in the Duo admin portal for increased security.
